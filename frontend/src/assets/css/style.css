@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    font-family: Helvetica, Tahoma, Arial, STXihei,'Helvetica Neue', 'Helvetica', 'Microsoft Yahei', sans-serif;
+}
+button, select {
+    text-transform: none;
+}
+a,a:focus{
+    text-decoration-line:none;
+  color: #000;
+}
+
